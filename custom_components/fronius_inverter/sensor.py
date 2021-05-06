@@ -28,7 +28,7 @@ _LOGGER = logging.getLogger(__name__)
 ATTRIBUTION = "Fronius Inverter Data"
 
 CONF_NAME = 'name'
-CONF_IP_ADDRESS = 'ip_address'
+CONF_IP_ADDRESS = '192.168.1.136'
 CONF_DEVICE_ID = 'device_id'
 CONF_SCOPE = 'scope'
 CONF_UNITS = 'units'
